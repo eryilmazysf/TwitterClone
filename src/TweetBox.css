@@ -21,9 +21,10 @@
 .tweetBox__imageInput {
   border: none;
   padding: 10px;
+  outline-color: var(--twitter-color);
 }
 
-.tweetBox_tweetButton {
+.tweetBox__tweetButton {
   background-color: var(--twitter-color) !important;
   border: none !important;
   color: white !important;
