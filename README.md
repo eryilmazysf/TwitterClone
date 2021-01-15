@@ -1,4 +1,4 @@
-You can look the webpage from this Url = https://console.firebase.google.com/project/twitter-clone-f522b/overview
+You can look the webpage from this Url = https://twitter-clone-f522b.web.app
 
 # Getting Started with Create React App
 
